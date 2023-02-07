@@ -26,3 +26,30 @@
 
     background-image: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
 }
+
+
+/* What Our Client Say Section  */
+
+.bg-image-1, .bg-image-2, .bg-image-3{
+
+    background-position: center;
+    height: 65vh;
+}
+
+.bg-image-1{
+
+    background-image:url('../images/slider-1.jpg');
+    
+}  
+
+.bg-image-2{
+
+    background-image:url('../images/slider-2.jpg');
+      
+}
+
+.bg-image-3{
+
+    background-image:url('../images/slider-3.jpg');
+}
+
